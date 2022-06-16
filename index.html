@@ -3,10 +3,11 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>我的做饭笔记</title>
+  <title></title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 
@@ -14,15 +15,29 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '我的做饭笔记',
+      name: '我的笔记',
       repo: 'https://github.com/BlueSky16st/BlueSky16st.GitHub.io',
       coverpage: true,
       loadSidebar: true,
       onlyCover: false,
+      subMaxLevel: 2,
+      pagination: {
+        previousText: '上一节',
+        nextText: '下一节',
+        crossChapter: false,
+        crossChapterText: true,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 复制代码 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!-- 分页按钮 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 代码高亮 bash/jsx -->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-jsx.min.js"></script>
 </body>
 
 </html>
