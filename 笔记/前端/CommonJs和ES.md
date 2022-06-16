@@ -322,7 +322,6 @@ setTimeout(() => {
 ```jsx
 // 该组件是动态加载的
 const OtherComponent = React.lazy(() => import('./OtherComponent'));
-
 function MyComponent() {
   return (
     // 显示 <Spinner> 组件直至 OtherComponent 加载完成
