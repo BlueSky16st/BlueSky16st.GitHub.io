@@ -1,5 +1,5 @@
 ---
-title: CommonJS和ES Module
+title: CommonJS和ES
 date: 2022-06-13 14:21
 ---
 

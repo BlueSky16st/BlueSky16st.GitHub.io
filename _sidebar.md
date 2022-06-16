@@ -1,8 +1,7 @@
-- [我的日常](/)
 - Linux 笔记
     - [Linux常用指令](/笔记/Linux/常用指令.md)
 - 前端笔记
-    - [CommonJS和ES Module](/笔记/前端/CommonJs和Es Module.md)
+    - [CommonJS和ES](/笔记/前端/CommonJs和ES.md)
 - 做饭笔记
   - [煮饭](/做饭/饭.md)
   - [煮粥](/做饭/粥.md)
