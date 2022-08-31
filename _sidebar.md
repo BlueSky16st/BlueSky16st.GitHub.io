@@ -1,7 +1,9 @@
 - Linux 笔记
-    - [Linux常用指令](/笔记/Linux/常用指令.md)
+  - [Linux 常用指令](/笔记/Linux/常用指令.md)
+- C#笔记
+  - [常用代码](/笔记/后端/常用代码.md)
 - 前端笔记
-    - [CommonJS和ES](/笔记/前端/CommonJs和ES.md)
+  - [CommonJS 和 ES](/笔记/前端/CommonJs和ES.md)
 - 做饭笔记
   - [煮饭](/做饭/饭.md)
   - [煮粥](/做饭/粥.md)
