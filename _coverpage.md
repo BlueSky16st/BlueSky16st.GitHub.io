@@ -10,6 +10,8 @@
 
 > [菜鸟的做饭笔记](/做饭/饭.md)
 
+> [股票](/股票/一/第一章.md)
+
 Hello from Hsin
 
 ![](_static/bg.png)
